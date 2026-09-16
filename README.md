@@ -1,6 +1,6 @@
 
 
-Building private AI systems that actually work. Karen is a local voice assistant running on Raspberry Pi. It is multi-model, smart-home-integrated, privacy-first agentic hub. Recently finished an MSc in Social Innovation at Bristol, UK. Available for work.
+Building private AI systems that actually work. Karen is a local voice assistant running on Raspberry Pi. It is a multi-model, smart-home-integrated, privacy-first agentic hub. Recently finished an MSc in Social Innovation at Bristol, UK. Available for work.
 
 
 <!--
